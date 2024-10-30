@@ -1,2 +1,2 @@
 # Web-Email-Scrapper
-  Python3 is used
+  Python is used
